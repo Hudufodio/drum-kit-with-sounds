@@ -1,0 +1,147 @@
+
+
+.make-it-work{
+    font-size: 100px;
+    font-weight: 600;
+    text-align: center;
+    color: blue;
+    text-shadow: 3px snow;
+    margin: 10px;
+    
+}
+
+.main-container {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    margin-bottom: 5px;
+    height: 700px;
+}
+
+.img-drum {
+    width: 900px;
+    height: 550px;
+    align-items: center;
+    background-image: url();
+}
+.snare1 {
+    /* Ellipse 8 */
+
+position: absolute;
+width: 220px;
+height: 220px;
+left: 790px;
+top: 468px;
+border-radius: 50%;
+border: none;
+background: #D4E665;
+background-color: transparent;
+
+}
+.snare2 {
+    /* Ellipse 5 */
+
+position: absolute;
+width: 190px;
+height: 190px;
+left: 659px;
+top: 325px;
+border-radius: 50%;
+border: none;
+background: #D4E665;
+background-color: transparent;
+}
+
+.snare3 {
+    /* Ellipse 4 */
+
+position: absolute;
+width: 170px;
+height: 170px;
+left: 480px;
+top: 325px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
+
+.snare4 {
+    /* Ellipse 1 */
+
+position: absolute;
+width: 155px;
+height: 155px;
+left: 430px;
+top: 500px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
+
+.hihat1 {
+    /* Ellipse 2 */
+
+position: absolute;
+width: 148px;
+height: 148px;
+left: 285px;
+top: 421px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
+
+.hihat2 {
+    /* Ellipse 3 */
+
+position: absolute;
+width: 189px;
+height: 189px;
+left: 330px;
+top: 250px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
+
+.hihat3 {
+    /* Ellipse 6 */
+
+position: absolute;
+width: 223px;
+height: 223px;
+left: 817px;
+top: 220px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
+
+.hihat4 {
+    /* Ellipse 7 */
+
+position: absolute;
+width: 148px;
+height: 148px;
+right: 264px;
+top: 418px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
+
+.kick {
+    /* Ellipse 9 */
+
+position: absolute;
+width: 40px;
+height: 100px;
+left: 619px;
+top: 515px;
+border-radius: 50%;
+background: #D4E665;
+opacity: 0.1;
+}
