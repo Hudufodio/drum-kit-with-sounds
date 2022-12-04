@@ -31,12 +31,11 @@
   position: absolute;
   width: 220px;
   height: 220px;
-  left: 790px;
+  right: 385px;
   top: 468px;
   border-radius: 50%;
   border: none;
-  background: #d4e665;
-  background-color: transparent;
+  opacity: 0.1;
 }
 .snare2 {
   /* Ellipse 5 */
@@ -44,12 +43,11 @@
   position: absolute;
   width: 190px;
   height: 190px;
-  left: 659px;
+  right: 549px;
   top: 325px;
   border-radius: 50%;
   border: none;
-  background: #d4e665;
-  background-color: transparent;
+  opacity: 0.1;
 }
 
 .snare3 {
@@ -58,10 +56,9 @@
   position: absolute;
   width: 170px;
   height: 170px;
-  left: 480px;
+  left: 520px;
   top: 325px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
 
@@ -71,10 +68,9 @@
   position: absolute;
   width: 155px;
   height: 155px;
-  left: 430px;
+  left: 475px;
   top: 500px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
 
@@ -84,10 +80,9 @@
   position: absolute;
   width: 148px;
   height: 148px;
-  left: 285px;
+  left: 330px;
   top: 421px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
 
@@ -95,12 +90,11 @@
   /* Ellipse 3 */
 
   position: absolute;
-  width: 189px;
-  height: 189px;
-  left: 330px;
+  width: 192px;
+  height: 192px;
+  left: 375px;
   top: 250px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
 
@@ -108,12 +102,11 @@
   /* Ellipse 6 */
 
   position: absolute;
-  width: 223px;
-  height: 223px;
-  left: 817px;
-  top: 220px;
+  width: 220px;
+  height: 220px;
+  right: 361px;
+  top: 224px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
 
@@ -123,10 +116,9 @@
   position: absolute;
   width: 148px;
   height: 148px;
-  right: 264px;
-  top: 418px;
+  right: 313px;
+  top: 415px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
 
@@ -136,9 +128,8 @@
   position: absolute;
   width: 40px;
   height: 100px;
-  left: 619px;
+  left: 667px;
   top: 515px;
   border-radius: 50%;
-  background: #d4e665;
   opacity: 0.1;
 }
