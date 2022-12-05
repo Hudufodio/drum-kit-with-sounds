@@ -2,7 +2,7 @@
   font-size: 100px;
   font-weight: 600;
   text-align: center;
-  color: blue;
+  color: #7b00ff;
   text-shadow: 3px snow;
   margin: 10px;
 }
@@ -31,7 +31,6 @@ main .snare1 {
   right: 385px;
   top: 468px;
   border-radius: 50%;
-  border: none;
   opacity: 0.1;
 }
 main .snare2 {
@@ -42,7 +41,6 @@ main .snare2 {
   right: 549px;
   top: 325px;
   border-radius: 50%;
-  border: none;
   opacity: 0.1;
 }
 main .snare3 {
