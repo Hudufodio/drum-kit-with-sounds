@@ -7,7 +7,7 @@
   margin: 10px;
 }
 
-.main-container {
+main {
   background: black;
   display: flex;
   flex-direction: column;
@@ -17,17 +17,14 @@
   margin-bottom: 5px;
   height: 700px;
 }
-
-.img-drum {
+main .img-drum {
   width: 900px;
   height: 550px;
   align-items: center;
   background-image: url();
 }
-
-.snare1 {
+main .snare1 {
   /* Ellipse 8 */
-
   position: absolute;
   width: 220px;
   height: 220px;
@@ -37,9 +34,8 @@
   border: none;
   opacity: 0.1;
 }
-.snare2 {
+main .snare2 {
   /* Ellipse 5 */
-
   position: absolute;
   width: 190px;
   height: 190px;
@@ -49,10 +45,8 @@
   border: none;
   opacity: 0.1;
 }
-
-.snare3 {
+main .snare3 {
   /* Ellipse 4 */
-
   position: absolute;
   width: 170px;
   height: 170px;
@@ -61,10 +55,8 @@
   border-radius: 50%;
   opacity: 0.1;
 }
-
-.snare4 {
+main .snare4 {
   /* Ellipse 1 */
-
   position: absolute;
   width: 155px;
   height: 155px;
@@ -73,10 +65,8 @@
   border-radius: 50%;
   opacity: 0.1;
 }
-
-.hihat1 {
+main .hihat1 {
   /* Ellipse 2 */
-
   position: absolute;
   width: 148px;
   height: 148px;
@@ -85,10 +75,8 @@
   border-radius: 50%;
   opacity: 0.1;
 }
-
-.hihat2 {
+main .hihat2 {
   /* Ellipse 3 */
-
   position: absolute;
   width: 192px;
   height: 192px;
@@ -97,10 +85,8 @@
   border-radius: 50%;
   opacity: 0.1;
 }
-
-.hihat3 {
+main .hihat3 {
   /* Ellipse 6 */
-
   position: absolute;
   width: 220px;
   height: 220px;
@@ -109,10 +95,8 @@
   border-radius: 50%;
   opacity: 0.1;
 }
-
-.hihat4 {
+main .hihat4 {
   /* Ellipse 7 */
-
   position: absolute;
   width: 148px;
   height: 148px;
@@ -121,10 +105,8 @@
   border-radius: 50%;
   opacity: 0.1;
 }
-
-.kick {
+main .kick {
   /* Ellipse 9 */
-
   position: absolute;
   width: 40px;
   height: 100px;
@@ -132,4 +114,4 @@
   top: 515px;
   border-radius: 50%;
   opacity: 0.1;
-}
+}/*# sourceMappingURL=style.css.map */
