@@ -2,7 +2,7 @@
   font-size: 100px;
   font-weight: 600;
   text-align: center;
-  color: #002aff;
+  color: #00b3ff;
   text-shadow: 3px snow;
   margin: 10px;
 }
@@ -113,4 +113,4 @@ main .kick {
   top: 515px;
   border-radius: 50%;
   opacity: 0.1;
-}/*# sourceMappingURL=style.css.map */
+}
